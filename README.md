@@ -2,6 +2,6 @@
 Load Forecasting using various ML and Statistical techniques on SLDC DATA.
 
 Collaborators -
-Eshaan Agarwal
-Aadish Jain
-Tanvi
+- Eshaan Agarwal
+- Aadish Jain
+- Tanvi
